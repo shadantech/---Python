@@ -29,20 +29,6 @@ Along with coding exercises, I have also documented concepts, explanations, and 
 
 ---
 
-## 📂 **Project Structure**
-/Python-Practice
-│── Basics.ipynb
-│── Loops.ipynb
-│── Functions.ipynb
-│── OOP.ipynb
-│── requirements.txt
-│── README.md
-
----
-
-
----
-
 ## 💻 **Tech Stack**
 | Tool | Description |
 |------|------------|
