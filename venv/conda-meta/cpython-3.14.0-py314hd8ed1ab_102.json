@@ -1,0 +1,34 @@
+{
+  "build": "py314hd8ed1ab_102",
+  "build_number": 102,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.14,<3.15.0a0",
+    "python_abi * *_cp314"
+  ],
+  "extracted_package_dir": "e:\\anaconda3\\pkgs\\cpython-3.14.0-py314hd8ed1ab_102",
+  "files": [],
+  "fn": "cpython-3.14.0-py314hd8ed1ab_102.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "e:\\anaconda3\\pkgs\\cpython-3.14.0-py314hd8ed1ab_102",
+    "type": 1
+  },
+  "md5": "ff3061d315c4a988fa1c29c543800780",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "e:\\anaconda3\\pkgs\\cpython-3.14.0-py314hd8ed1ab_102.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8e2a33b36d36820698840bf0c1ed50e5dd4bdeaa434c7b4f5e13d421225b0414",
+  "size": 49003,
+  "subdir": "noarch",
+  "timestamp": 1761175499000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.14.0-py314hd8ed1ab_102.conda",
+  "version": "3.14.0"
+}
